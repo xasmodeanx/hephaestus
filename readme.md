@@ -10,7 +10,7 @@ _**Hephaestus built automatons of metal to work for him.**_
 
 This repository contains automatons, aka SikuliX automation routines for specific applications.  
 
-### Check out the [hellosikuliworld]() automaton for a primer and example of what can be done and how.
+### Check out the [hellosikuliworld](https://github.com/xasmodeanx/hephaestus/tree/main/automatons/hellosikuliworld) automaton for a primer and example of what can be done and how.
 
 ## What is Sikuli/SikuliX?
 Sikuli/SikuliX is a  Black Box GUI testing tool. 
