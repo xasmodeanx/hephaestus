@@ -26,7 +26,7 @@ import hellosikuliworld
 
 #We are defining a variable that we will pass to our testApp later
 #Note that python/jython is not strongly typed so we have no variable type
-myNameString="Jason"
+myNameString="UserName"
 
 #We can define an inline function here that will launch our testApp in a background
 #Thread.  This will allow the testApp to fire up and run without blocking 
