@@ -1,5 +1,5 @@
 # Hephaestus Automatons
-### _**Hephaestus built automatons to help him...**_
+### _**Hephaestus built automatons of metal to help him...**_
 
 
 In this directory you will find a list of Hephaestus Automatons.
