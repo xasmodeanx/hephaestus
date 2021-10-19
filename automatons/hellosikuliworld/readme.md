@@ -1,5 +1,7 @@
 # XAsmodeanNX's SikuliX Example Code (HelloSikuliWorld!) as Eclipse or Standalone project
 
+![hippo](https://thumbs.gfycat.com/UltimateOccasionalAustraliankestrel-size_restricted.gif)
+
 ## Pre-requisites
 1. Download [SikuliXide*.jar](https://launchpad.net/sikuli/sikulix/2.0.5/+download/sikulixide-2.0.5.jar) and [SikuliXapi*.jar](https://launchpad.net/sikuli/sikulix/2.0.5/+download/sikulixapi-2.0.5.jar) for your OS and place them in this directory. 
 Note: This repository was written and tested with SikuliX 2.0.5.
