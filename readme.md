@@ -12,7 +12,7 @@ This repository contains automatons, aka SikuliX automation routines for specifi
 
 ### Check out the [hellosikuliworld](https://github.com/xasmodeanx/hephaestus/tree/main/automatons/hellosikuliworld) automaton for a primer and example of what can be done and how.
 
-![hippo](https://gfycat.com/ultimateoccasionalaustraliankestrel)
+![hippo](https://giant.gfycat.com/UltimateOccasionalAustraliankestrel.mp4)
 
 ## What is Sikuli/SikuliX?
 Sikuli/SikuliX is a  Black Box GUI testing tool. 
