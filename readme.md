@@ -12,6 +12,8 @@ This repository contains automatons, aka SikuliX automation routines for specifi
 
 ### Check out the [hellosikuliworld](https://github.com/xasmodeanx/hephaestus/tree/main/automatons/hellosikuliworld) automaton for a primer and example of what can be done and how.
 
+![hippo](https://gfycat.com/ultimateoccasionalaustraliankestrel)
+
 ## What is Sikuli/SikuliX?
 Sikuli/SikuliX is a  Black Box GUI testing tool. 
 Sikuli allows you to comprehensively test applications, by allowing you to simulate user-inputs to any software that has a visual component.
