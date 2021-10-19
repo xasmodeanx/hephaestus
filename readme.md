@@ -4,7 +4,7 @@
 Hephaestus was the Greek god of blacksmiths.  
 Hephaestus crafted much of the magnificent equipment of the gods, and almost any finely wrought metalwork imbued with powers that appears in Greek myth is said to have been forged by Hephaestus. 
 He designed Hermes' winged helmet and sandals, the Aegis breastplate, Aphrodite's famed girdle, Agamemnon's staff of office, Achilles' armour, Diomedes' cuirass, Heracles' bronze clappers, Helios' chariot, the shoulder of Pelops, and Eros's bow and arrows. 
-In later accounts, Hephaestus worked with the help of the Cyclopesamong them his assistants in the forge, Brontes, Steropes and Arges.
+In later accounts, Hephaestus worked with the help of the Cyclopes, among them his assistants in the forge, Brontes, Steropes and Arges.
 
 _**Hephaestus built automatons of metal to work for him.**_
 

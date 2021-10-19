@@ -1,1 +1,5 @@
 *py.class*
+.jython_cache
+.project
+.pydevproject
+.settings
