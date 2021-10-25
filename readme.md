@@ -31,6 +31,5 @@ Note: Sikuli requires libtesseract > 4.1.x
 4. Some automatons may have their own dependencies, see the automaton folder you are interested in for more information.
  
 ## Running a Hephaestus automaton
+`cd automatons/helloworldxmessage/; ./run.sh`
 `cd automatons/hellosikuliworld/; ./run.sh`
-
-
